@@ -1,10 +1,10 @@
 # Repository Data Pacflight
 ## Clone repository ini untuk mendapatkan data pacflight
-- Clone
+- Perintah Clone:
 - git lfs clone https://github.com/ihdarsyd/pacflight-data.git)https://github.com/ihdarsyd/pacflight-data.git
 
 ## Jalankan Docker
-- Build Container
+- Perintah Build Container:
 - docker-compose up -d
 
 ## Tools
